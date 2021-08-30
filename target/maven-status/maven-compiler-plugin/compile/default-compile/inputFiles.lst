@@ -1,0 +1,8 @@
+/home/professor/Documents/chatserver/src/main/java/com/synergyquantum/chatserver/ChatserverApplication.java
+/home/professor/Documents/chatserver/src/main/java/com/synergyquantum/chatserver/controller/ChatController.java
+/home/professor/Documents/chatserver/src/main/java/com/synergyquantum/chatserver/configuration/WebSocketConfig.java
+/home/professor/Documents/chatserver/src/main/java/com/synergyquantum/chatserver/consumer/MessageListener.java
+/home/professor/Documents/chatserver/src/main/java/com/synergyquantum/chatserver/configuration/ProducerConfiguration.java
+/home/professor/Documents/chatserver/src/main/java/com/synergyquantum/chatserver/model/Message.java
+/home/professor/Documents/chatserver/src/main/java/com/synergyquantum/chatserver/constants/KafkaConstants.java
+/home/professor/Documents/chatserver/src/main/java/com/synergyquantum/chatserver/configuration/ListenerConfig.java
